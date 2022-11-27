@@ -6,6 +6,13 @@
     --text-black-900:#302e4d;
     --text-black-700:#504e70;
 }
+body.dark{
+    --bg-black-900:#0d0d0d;
+    --bg-black-100:#1f1f1f;
+    --bg-black-50:#2f2f2f;
+    --text-black-900:#fff;
+    --text-black-700:#ccc;
+}
 body{
    
     line-height: 1.5;
